@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmstout32" alt="kmstout32" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Site**
+- 🔭 I’m currently working on **qProject**
 
 - 🌱 I’m currently learning **Angular and Selenium**
 
