@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **qProject**
 
-- 🌱 I’m currently learning **Angular and Selenium**
+- 🌱 I’m currently honing in on my **javascript** skills
 
 - 📫 How to reach me **kmstout08@gmail.com**
 
