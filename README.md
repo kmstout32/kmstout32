@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **qProject**
 
-- 🌱 I’m currently honing in on my **javascript** skills
+- 🌱 I’m currently working on building a web based application for the QA department that will take in data and turn it into a PDF and ease the timeframe it may take to write one from scratch.
 
 - 📫 How to reach me **kmstout08@gmail.com**
 
