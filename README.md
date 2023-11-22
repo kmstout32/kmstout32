@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kira Stout</h1>
-<h3 align="center">A passionate java full stack developer</h3>
+<h3 align="center">A passionate QA Software Tester with a background in full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmstout32&label=Profile%20views&color=0e711f&style=plastic" alt="kmstout32" /> </p>
 
