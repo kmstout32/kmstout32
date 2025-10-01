@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmstout32" alt="kmstout32" /></a> </p>
 
-- 🔭 I’m currently working on building a web based application for the QA department that will take in data and turn it into a PDF and ease the timeframe it may take to write one from scratch.
+- 🔭 I’m currently working on focusing on C# fundamentals and data structures, specifically practicing with exercises like array manipulation and class structure.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **kmstout08@gmail.com**
 
