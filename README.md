@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kira Stout</h1>
-<h3 align="center">A passionate QA Software Tester with a background in full stack development</h3>
+<h3 align="center">A passionate Junior Software Engineer with a background in Java and C# Whafull stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmstout32&label=Profile%20views&color=0e711f&style=plastic" alt="kmstout32" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmstout32" alt="kmstout32" /></a> </p>
 
-- 🔭 I’m currently working on focusing on C# fundamentals and data structures, specifically practicing with exercises like array manipulation and class structure.
+- 🔭 I’m currently working on: Mastering C# Unit Testing and Domain Modeling. I’m specifically focused on utilizing Moq and xUnit to create robust test suites, alongside implementing clean POCO models and Data Transfer Objects (DTOs) to ensure high-quality, maintainable codebases
 
 - 🌱 I’m currently learning **C#**
 
